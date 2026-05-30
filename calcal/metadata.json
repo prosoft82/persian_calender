@@ -1,0 +1,6 @@
+{
+  "name": "Persian Secure Calendar",
+  "description": "یک تقویم شمسی ساده، زیبا و با کلاس با تم سیاه و سفید و رمزنگاری پیشرفته داده‌های محلی برای حفاظت از یادداشت‌ها و رویدادهای شخصی شما.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
